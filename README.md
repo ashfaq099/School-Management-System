@@ -3,7 +3,7 @@
 The School Management System is a comprehensive web-based application designed to streamline and automate various administrative and academic processes within an educational institution. This system aims to enhance efficiency, communication, and data management for schools, making it an invaluable tool for educators, administrators & students.
 
 User Authentication: Login, logout, password reset, and forgot password functionalities for secure access
-• Role-based Access Control: Different modules for Admin, Teacher, Student, and Parent roles
+#  Role-based Access Control: Different modules for Admin, Teacher & Student roles
 
 • Admin Features:
 Manage students, teachers, classes, subjects, and assigned class teachers
