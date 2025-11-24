@@ -172,14 +172,14 @@ Go to:
 ```
 http://127.0.0.1:8000/
 ```
+## 🚀 Deployment
 
----
+**The application is not deployed yet — deployment is planned soon.**
 
-## 🧪 Testing
+A live production link will be added here once the system is fully hosted and configured.
 
-```bash
-php artisan test
-```
+Stay tuned!
+
 
 
 ## 📄 License
